@@ -2,11 +2,12 @@
 
 Data: https://ourworldindata.org/explorers/coronavirus-data-explorer?facet=none&pickerSort=asc&pickerMetric=location&Interval=7-day+rolling+average&Relative+to+Population=true&Color+by+test+positivity=false&Metric=Confirmed+deaths
 
-Overview
-This data is COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL). Total record count is 224K.
-My idea behind creating this dashboard is to show a report to a health care team which makes it easy to understand the different peaks among covid cases and deaths that occurred during pandemic. I added a chart for the vaccinations which shows how it helped in reducing the number of covid cases. I have created two dashboards using Microsoft Power BI for the world and United States.
+## Overview
+This data is COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. The total record count is 224K.
+There are several dashboards and charts with COVID data, but I wanted to create one with everyday people in mind. Something simple for a non-healthcare person to consume and understand. There are two dashboards; the first contains data for the world, while the second is for US only.  
+The data is quite large and continues to grow, so I plan to make other dashboards that are more involved and present more statistical information for actual healthcare/technical users.
 
-Steps
+## Steps
 - Download dataset for the COVID-19 Repository from the website https://ourworldindata.org/
 - Review and clean-up data using Notepadd++ and Excel
 - Uploaded data to MSSQL and ran queries to clean-up data 
