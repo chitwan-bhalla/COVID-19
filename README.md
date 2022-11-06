@@ -4,7 +4,9 @@ Data: https://ourworldindata.org/explorers/coronavirus-data-explorer?facet=none&
 
 ## Overview
 This data is COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. The total record count is 224K.
+
 There are several dashboards and charts with COVID data, but I wanted to create one with everyday people in mind. Something simple for a non-healthcare person to consume and understand. There are two dashboards; the first contains data for the world, while the second is for US only.  
+
 The data is quite large and continues to grow, so I plan to make other dashboards that are more involved and present more statistical information for actual healthcare/technical users.
 
 ## Steps
